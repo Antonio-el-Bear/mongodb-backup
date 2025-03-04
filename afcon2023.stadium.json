@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67c70b99978d07d131fa421c"
+  },
+  "stadium_id": "STA-001",
+  "name": "Stade Olympique d'Ebimpe",
+  "location": {
+    "city": "Abidjan",
+    "country": "Ivory Coast"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c70c75978d07d131fa421d"
+  },
+  "stadium_id": "STA-002",
+  "name": "Cairo International Stadium",
+  "location": {
+    "city": "Cairo",
+    "country": "Egypt"
+  }
+}]

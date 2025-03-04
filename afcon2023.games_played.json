@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "67c62495978d07d131fa421a"
+  },
+  "match_id": "AFCON2023-001",
+  "date": "2023-01-13",
+  "teams": {
+    "home": "Cote d'lvoire",
+    "away": "Guinea-Bissau"
+  },
+  "score": {
+    "home": 2,
+    "away": 0
+  },
+  "stadium_id": "STA-001",
+  "goal_scorers": [
+    {
+      "player": "Seko Fofana",
+      "team": "Cote d'lvoire",
+      "goals": 1
+    },
+    {
+      "player": "Jean-Philippe Krasso",
+      "team": "Cote d'lvoire",
+      "goals": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67c62696978d07d131fa421b"
+  },
+  "match_id": "AFCON2023-002",
+  "date": "2023-01-14",
+  "teams": {
+    "home": "Nigeria",
+    "away": "Equatorial Guinea"
+  },
+  "score": {
+    "home": 1,
+    "away": 1
+  },
+  "stadium_id": "STA-002",
+  "goal_scorers": [
+    {
+      "player": "Victor Osimhen",
+      "team": "Nigeria",
+      "goals": 1
+    },
+    {
+      "player": "Ivan Salvador",
+      "team": "Equatorial Guinea",
+      "goals": 1
+    }
+  ]
+}]

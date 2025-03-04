@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "67c70e06978d07d131fa421e"
+  },
+  "player_id": "P-001",
+  "name": "Emilio Nsue",
+  "team": "Equatorial Guinea",
+  "position": "Foward",
+  "goals": 5,
+  "played": 4
+},
+{
+  "_id": {
+    "$oid": "67c70e91978d07d131fa421f"
+  },
+  "player_id": "P-002",
+  "name": "Gelson Dala",
+  "team": "Angola",
+  "position": "Foward",
+  "goals": 4,
+  "played": 5
+},
+{
+  "_id": {
+    "$oid": "67c70ef5978d07d131fa4220"
+  },
+  "player_id": "P-003",
+  "name": "Mostafa Mohamed",
+  "team": "Egypt",
+  "position": "Foward",
+  "goals": 4,
+  "played": 4
+},
+{
+  "_id": {
+    "$oid": "67c70f4b978d07d131fa4221"
+  },
+  "player_id": "P-004",
+  "name": "Ademola Lookman",
+  "team": "Nigeria",
+  "position": "Foward",
+  "goals": 3,
+  "played": 7
+},
+{
+  "_id": {
+    "$oid": "67c70fa8978d07d131fa4222"
+  },
+  "player_id": "P-005",
+  "name": "Wiliam Troost-Ekong",
+  "team": "Nigeria",
+  "position": "Foward",
+  "goals": 3,
+  "played": 6
+}]

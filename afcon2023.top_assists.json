@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "67c71065978d07d131fa4223"
+  },
+  "player_id": "P-001",
+  "name": "Ivan Salvador",
+  "team": "Equatorial Guinea",
+  "position": "Midfielder",
+  "assists": 3,
+  "played": 3
+},
+{
+  "_id": {
+    "$oid": "67c710c0978d07d131fa4224"
+  },
+  "player_id": "P-002",
+  "name": "Sadio Mane",
+  "team": "Senegal",
+  "position": "Midfielder",
+  "assists": 3,
+  "played": 4
+},
+{
+  "_id": {
+    "$oid": "67c7111b978d07d131fa4225"
+  },
+  "player_id": "P-003",
+  "name": "Georges-Kevin N'Koudou",
+  "team": "Cameroon",
+  "position": "Midfielder",
+  "assists": 3,
+  "played": 4
+},
+{
+  "_id": {
+    "$oid": "67c71183978d07d131fa4226"
+  },
+  "player_id": "P-004",
+  "name": "Jose Machin",
+  "team": "Equatorial Guinea",
+  "position": "Midfielder",
+  "assists": 3,
+  "played": 4
+},
+{
+  "_id": {
+    "$oid": "67c711e3978d07d131fa4227"
+  },
+  "player_id": "P-005",
+  "name": "Seko Fofana",
+  "team": "Ivory Coast",
+  "position": "Midfielder",
+  "assists": 2,
+  "played": 7
+}]
