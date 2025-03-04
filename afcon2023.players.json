@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "67c5dbf4978d07d131fa4214"
+  },
+  "name": "Victor Osimhen",
+  "team": "Nigeria",
+  "position": "Forward",
+  "goals": 3,
+  "assists": 2
+},
+{
+  "_id": {
+    "$oid": "67c5e82d978d07d131fa4215"
+  },
+  "name": "Achraf Hakimi",
+  "team": "Morocco",
+  "position": "Defender",
+  "goals": 1,
+  "assists": 1
+},
+{
+  "_id": {
+    "$oid": "67c5ea3f978d07d131fa4216"
+  },
+  "name": "Yoane Wissa",
+  "team": "DR Congo",
+  "position": "Midfielder",
+  "goal": 1,
+  "assists": 0
+},
+{
+  "_id": {
+    "$oid": "67c5eda3978d07d131fa4217"
+  },
+  "name": "Simon Msuva",
+  "team": "Tanzania",
+  "position": "Midfielder",
+  "goal": 1,
+  "assists": 0
+},
+{
+  "_id": {
+    "$oid": "67c5f592978d07d131fa4218"
+  },
+  "name": "Emilio Nsue",
+  "team": "Equatorial Guinea",
+  "position": "Forward",
+  "goal": 5,
+  "assists": 0
+},
+{
+  "_id": {
+    "$oid": "67c5f8e7978d07d131fa4219"
+  },
+  "name": "Sadio Mane",
+  "team": "Senegal",
+  "position": "Midfielder",
+  "goals": 1,
+  "assists": 1
+}]
